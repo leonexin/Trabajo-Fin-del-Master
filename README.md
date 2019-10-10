@@ -12,4 +12,5 @@ Saved trained models, used data set for training and testing can be found at the
 ## Built With
 
 *[Python](https://www.python.org/) - A programming language that lets you work quickly and integrate systems more effectively.
+
 *[TensorFlow](https://www.tensorflow.org/) - The core open source library to help you develop and train ML models.

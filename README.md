@@ -7,8 +7,9 @@ This repository contains the code and a note of my project from the master's pro
 * Nvidia GPU
 
 ##Dataset and Results
-Saved trained models, used data set for training and testing can be found at the following link```[https://drive.google.com/open?id=1-I8PNd2ubaU4GyXxNVVaPNvSloZ8vcm3]
+Saved trained models, used data set for training and testing can be found at the [GoogleDrive](https://drive.google.com/open?id=1-I8PNd2ubaU4GyXxNVVaPNvSloZ8vcm3)
 
 ## Built With
 
 *[Python](https://www.python.org/) - A programming language that lets you work quickly and integrate systems more effectively.
+*[TensorFlow](https://www.tensorflow.org/) - The core open source library to help you develop and train ML models.

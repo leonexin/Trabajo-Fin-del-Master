@@ -21,4 +21,4 @@ Saved trained models, used data set for training and testing can be found at the
 * Fine tuning using pretrained VGG19 model with dropout layer - 0.83 - accuracy, 0.6 - locc
 * Fine tuning using pretrained VGG19 model without dropout layer - 0.62 - accuracy, 1.03 - loss
 
-##### All results show result that was got using test dataset
+##### The results are obtained using a test data set
